@@ -46,7 +46,8 @@ python main.py
 ```bash
 python main3.py
 ```
-
+**How to use/ How it works**
+https://github.com/adityajadhav2004/llm/blob/main/llm-persona.mp4
 ## Files Description
 
 - `main.py` - Full-featured version with comprehensive logging and configuration
