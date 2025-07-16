@@ -37,14 +37,8 @@ OPENROUTER_API_KEY=your_openrouter_api_key_here
 
 ### 4. Run the Application
 
-**Main application (uses config.py):**
 ```bash
 python main.py
-```
-
-**Simple version:**
-```bash
-python main3.py
 ```
 
 **How to use/ How it works**
@@ -52,8 +46,7 @@ https://github.com/adityajadhav2004/llm/blob/main/llm-persona.mp4
 
 ## Files Description
 
-- `main.py` - Full-featured version with comprehensive logging and configuration
-- `main3.py` - Simplified version for quick testing
+- `main.py` - Reddit persona analyzer application
 - `config.py` - Configuration management
 - `.env` - Environment variables (create this file with your API keys)
 - `.env.example` - Example environment file
