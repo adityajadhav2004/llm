@@ -107,4 +107,4 @@ cython_debug/
 
 # Output files
 output/
-*.txt
+output/*.txt
